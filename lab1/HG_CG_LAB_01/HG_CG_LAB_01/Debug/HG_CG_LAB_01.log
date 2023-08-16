@@ -1,0 +1,6 @@
+﻿  FileName.cpp
+D:\6th semester\Computer Graphics\Labs\lab1\HG_CG_LAB_01\HG_CG_LAB_01\FileName.cpp(65,19): warning C4129: 'L': unrecognized character escape sequence
+D:\6th semester\Computer Graphics\Labs\lab1\HG_CG_LAB_01\HG_CG_LAB_01\FileName.cpp(65,19): warning C4129: 'O': unrecognized character escape sequence
+D:\6th semester\Computer Graphics\Labs\lab1\HG_CG_LAB_01\HG_CG_LAB_01\FileName.cpp(65,19): warning C4129: 'D': unrecognized character escape sequence
+D:\6th semester\Computer Graphics\Labs\lab1\HG_CG_LAB_01\HG_CG_LAB_01\FileName.cpp(65,19): warning C4129: 'd': unrecognized character escape sequence
+  HG_CG_LAB_01.vcxproj -> D:\6th semester\Computer Graphics\Labs\lab1\HG_CG_LAB_01\Debug\HG_CG_LAB_01.exe
